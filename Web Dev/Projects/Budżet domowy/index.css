@@ -1,0 +1,49 @@
+html {
+    font-family: "IBM Plex Serif", serif;
+}
+.header {
+    background-color: #464866;
+    padding: 0;
+    margin: 0;
+    flex: 105vw;
+}
+
+.nav {
+    background-color: #AAABB8;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.select {
+    height: 6vh;
+}
+.zarobki {
+    width: 50%;
+    float: left;
+    font-weight: 450;
+    font-style: normal;
+}
+.wydatki {
+    width: 50%;
+    float: left;
+    font-weight: 450;
+    font-style: normal;
+}
+.main {
+    background-color: #25274D;
+}
+.header {
+    text-align: center;
+    
+}
+h2 {
+    text-align: center;
+
+}   
+.wpisanie {
+    float: right;
+}
+li {
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}

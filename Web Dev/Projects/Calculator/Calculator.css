@@ -1,0 +1,121 @@
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+body {
+    overflow: hidden;
+    align-items: center;
+    background-color: lightskyblue;
+    border: 4px grey;
+    display: flex;
+    height: inherit;
+    justify-content: center;
+}
+.main-frame {
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
+    border-radius: 15px;
+    box-shadow: 0 4px 25px rgba(40, 40, 40, 0.1);
+    background-color: lightblue;
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    background: rgba(255, 255, 255, 0.30);
+    border: 2px rgba(255, 255, 255, 0.40);
+    flex-basis: 600px; 
+    height: 700px;
+    padding: 25px 40px;
+}
+#dzialanie {
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
+    background: rgba(255, 255, 255, 0.70);
+    border: 2px rgba(255, 255, 255, 0.01);
+ 
+    box-shadow: 0 4px 25px rgba(40, 40, 40, 0.1);
+    background-color: lightgray;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    overflow: auto;
+    padding: 15px;
+    text-align: right;
+    width: 600px;
+}
+#wynik {
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
+    background: rgba(255, 255, 255, 0.70);
+    border: 2px rgba(255, 255, 255, 0.01);
+    box-shadow: 0 4px 25px rgba(40, 40, 40, 0.1);
+    background-color: lightgray;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+    overflow: auto;
+    padding: 35px;
+    text-align: right;
+    width: 560px;
+}
+.special{
+    background-color: rgba(52, 52, 52, 0.64);
+    color: whitesmoke;
+    border: 1.4px solid black;
+    border-radius: 5px;
+    width: 154px;
+    height: 90px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.special:hover{
+    background-color: rgba(78, 78, 78, 0.18);
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.keypad-button {
+    background-color: rgba(12, 12, 12, 0.79);
+    color: whitesmoke;
+    border: 1.4px solid black;
+    border-radius: 5px;
+    width: 154px;
+    height: 90px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+
+}
+.keypad-button:hover{
+    background-color: rgba(78, 78, 78, 0.18);
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.side{
+    background-color: rgba(52, 52, 52, 0.64);
+    color: whitesmoke;
+    border: 1.4px solid black;
+    border-radius: 5px;
+    width: 154px;
+    height: 90px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.side:hover{
+    background-color: rgba(78, 78, 78, 0.18);
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
