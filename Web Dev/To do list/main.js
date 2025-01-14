@@ -9,10 +9,3 @@ function addlist() {
     lists.appendChild(newButton)
     
 }
-/*function appearlist() {
-    document.getElementById("lists").addEventListener("click", function(event){
-        if (event.target.tagName === "BUTTON") {
-            const buttonID = event.target.id
-        }
-    })
-}*/

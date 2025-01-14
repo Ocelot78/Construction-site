@@ -1,0 +1,4 @@
+Zadanie 3
+Odpowiedza jest liczba 9801
+2730
+Istnieje takich liczb: 2
