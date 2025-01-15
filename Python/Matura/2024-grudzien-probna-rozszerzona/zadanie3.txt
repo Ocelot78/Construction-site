@@ -1,0 +1,5 @@
+Liczba roznic mniejszych od liczby: 947
+Liczba roznic wiekszych od liczby: 1052
+Liczba roznic rownych liczbie: 1
+Liczby, dla ktorych roznica jest rowna liczbie:
+6174

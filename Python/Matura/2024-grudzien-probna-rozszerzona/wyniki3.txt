@@ -1,4 +1,14 @@
 Zadanie 3
-Odpowiedza jest liczba 9801
+Odpowiedz to liczba 4489
+Liczb takich jest: 20
+
 2730
-Istnieje takich liczb: 2
+8190
+2310
+4620
+7770
+8610
+4830
+4290
+6930
+6630
